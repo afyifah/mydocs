@@ -1,7 +1,4 @@
-
-
 import { Button } from "@/components/ui/button"
-
 
 import Image from "next/image";
 
@@ -31,9 +28,7 @@ export default function Home() {
         </ol>
 
         <div>
-        <Button asChild >
-        
-        </Button>
+
         </div>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
         
