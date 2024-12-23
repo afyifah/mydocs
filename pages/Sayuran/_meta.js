@@ -1,4 +1,4 @@
 export default {
-    sawi: 'sawi',
-    brokoli: 'brokoli'
+    sawi: 'Sawi',
+    brokoli: 'Brokoli'
   }
